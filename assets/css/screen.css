@@ -16,7 +16,7 @@ pre {
     border: #E3EDF3 1px solid;
     width: 100%;
     padding: 10px;
-    font-family: SolaimanLipi;
+    font-family: 'SolaimanLipi', sans-serif;;
     font-size: 14px;
     white-space: pre;
     overflow: auto;
@@ -215,7 +215,7 @@ span.post-name a,span.post-read-more a:hover {
     margin-right:5px;
 }
 .mainheading h1.sitetitle {
-    font-family: SolaimanLipi;
+    font-family: 'SolaimanLipi', sans-serif;;
 }
 .mainheading h1.posttitle {
     font-weight:700;
@@ -236,7 +236,7 @@ span.post-name a,span.post-read-more a:hover {
     color:rgba(0,0,0,.8);
 }
 .article-post {
-    font-family: SolaimanLipi;
+    font-family: 'SolaimanLipi', sans-serif;;
     font-size:1.2rem;
     line-height:1.8;
     color:rgba(0,0,0,.8);
@@ -528,7 +528,7 @@ ul.tags li a:hover {
     margin-bottom: 1.5rem;
 }
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    font-family: SolaimanLipi;
+    font-family: 'SolaimanLipi', sans-serif;;
 }
 .article-post .h1, .article-post .h2, .article-post .h3, .article-post .h4, .article-post .h5, .article-post .h6, .article-post h1, .article-post h2, .article-post h3, .article-post h4, .article-post h5, .article-post h6 {
     font-weight: 700;
