@@ -2,8 +2,9 @@
 name: "রোজনামচা"
 description: "প্রোগ্রামিং, কোডিং, ডেভেলপমেন্ট, অ্যান্ড্রয়েড, জাভা, সি, পিএইচপি, ভ্রমণ, সাহিত্য, ঘোরাঘুরি নিয়ে বাংলা ব্লগ"
 meta_description: "প্রোগ্রামিং, কোডিং, ডেভেলপমেন্ট, অ্যান্ড্রয়েড, জাভা, সি, পিএইচপি, ভ্রমণ, সাহিত্য, ঘোরাঘুরি নিয়ে বাংলা ব্লগ"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'logo.png'
+favicon: 'favicon.ico'
+url: http://rojnamcha.cf
 baseurl: /
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
