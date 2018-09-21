@@ -11,7 +11,16 @@ mailchimp-list: ''
 
 # Authors
 authors:
-  shanto:
+  sal:
+    name: শান্ত
+    display_name: শান্ত
+    gravatar: def6db7f821bd4462e2fa8d98871872d
+    email: yousuf.hossain.shanto@gmail.com
+    web: http://yhshanto.cf
+    twitter: 
+    description: "ভালোবাসি প্রোগ্রামিং ও গণিতকে। নতুন কিছু নিয়ে ভাবতে, কাজ করতে ভালো লাগে। অ্যাডভেঞ্চার প্রেমী, কিন্তু খুবই অলস"
+
+  john:
     name: শান্ত
     display_name: শান্ত
     gravatar: def6db7f821bd4462e2fa8d98871872d
