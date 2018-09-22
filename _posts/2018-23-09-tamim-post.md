@@ -4,7 +4,7 @@ title:  "নিষেধাজ্ঞা শেষ হওয়ার দিন ক�
 author: shanto
 categories: [ পিএইচপি ]
 image: http://cob1.24livenewspaper.com/images/sports/cricket/mohammad-ashraful-and-mushfiqur-rahim-during-test-match-in-sri-lanka-2013.jpg
-featured: false
+featured: true
 hidden: false
 ---
 
