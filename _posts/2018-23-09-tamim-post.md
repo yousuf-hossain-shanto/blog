@@ -5,7 +5,7 @@ author: shanto
 categories: [ পিএইচপি ]
 image: http://cob1.24livenewspaper.com/images/sports/cricket/mohammad-ashraful-and-mushfiqur-rahim-during-test-match-in-sri-lanka-2013.jpg
 featured: true
-hidden: false
+hidden: true
 ---
 
 নিষেধাজ্ঞা শেষ হওয়ার দিন কয়েক আগেই আশরাফুল জানিয়েছেন যে, আবার জাতীয় দলে ফেরাই হবে তার জীবনের সবচেয়ে বড় অর্জন। আগামী বিশ্বকাপ খেলার স্বপ্নের কথাও জানিয়েছেন তিনি।
